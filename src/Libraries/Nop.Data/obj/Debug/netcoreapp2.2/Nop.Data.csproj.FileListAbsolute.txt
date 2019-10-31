@@ -1,0 +1,12 @@
+/home/kamila/projects/nc42/src/Libraries/Nop.Data/bin/Debug/netcoreapp2.2/Nop.Data.deps.json
+/home/kamila/projects/nc42/src/Libraries/Nop.Data/bin/Debug/netcoreapp2.2/Nop.Data.dll
+/home/kamila/projects/nc42/src/Libraries/Nop.Data/bin/Debug/netcoreapp2.2/Nop.Data.pdb
+/home/kamila/projects/nc42/src/Libraries/Nop.Data/bin/Debug/netcoreapp2.2/Nop.Core.dll
+/home/kamila/projects/nc42/src/Libraries/Nop.Data/bin/Debug/netcoreapp2.2/Nop.Core.pdb
+/home/kamila/projects/nc42/src/Libraries/Nop.Data/obj/Debug/netcoreapp2.2/Nop.Data.csprojAssemblyReference.cache
+/home/kamila/projects/nc42/src/Libraries/Nop.Data/obj/Debug/netcoreapp2.2/Nop.Data.csproj.CoreCompileInputs.cache
+/home/kamila/projects/nc42/src/Libraries/Nop.Data/obj/Debug/netcoreapp2.2/Nop.Data.AssemblyInfoInputs.cache
+/home/kamila/projects/nc42/src/Libraries/Nop.Data/obj/Debug/netcoreapp2.2/Nop.Data.AssemblyInfo.cs
+/home/kamila/projects/nc42/src/Libraries/Nop.Data/obj/Debug/netcoreapp2.2/Nop.Data.csproj.CopyComplete
+/home/kamila/projects/nc42/src/Libraries/Nop.Data/obj/Debug/netcoreapp2.2/Nop.Data.dll
+/home/kamila/projects/nc42/src/Libraries/Nop.Data/obj/Debug/netcoreapp2.2/Nop.Data.pdb

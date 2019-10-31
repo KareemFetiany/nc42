@@ -1,0 +1,16 @@
+/home/kamila/projects/nc42/src/Presentation/Nop.Web.Framework/bin/Debug/netcoreapp2.2/Nop.Web.Framework.deps.json
+/home/kamila/projects/nc42/src/Presentation/Nop.Web.Framework/bin/Debug/netcoreapp2.2/Nop.Web.Framework.dll
+/home/kamila/projects/nc42/src/Presentation/Nop.Web.Framework/bin/Debug/netcoreapp2.2/Nop.Web.Framework.pdb
+/home/kamila/projects/nc42/src/Presentation/Nop.Web.Framework/bin/Debug/netcoreapp2.2/Nop.Core.dll
+/home/kamila/projects/nc42/src/Presentation/Nop.Web.Framework/bin/Debug/netcoreapp2.2/Nop.Data.dll
+/home/kamila/projects/nc42/src/Presentation/Nop.Web.Framework/bin/Debug/netcoreapp2.2/Nop.Services.dll
+/home/kamila/projects/nc42/src/Presentation/Nop.Web.Framework/bin/Debug/netcoreapp2.2/Nop.Core.pdb
+/home/kamila/projects/nc42/src/Presentation/Nop.Web.Framework/bin/Debug/netcoreapp2.2/Nop.Data.pdb
+/home/kamila/projects/nc42/src/Presentation/Nop.Web.Framework/bin/Debug/netcoreapp2.2/Nop.Services.pdb
+/home/kamila/projects/nc42/src/Presentation/Nop.Web.Framework/obj/Debug/netcoreapp2.2/Nop.Web.Framework.csprojAssemblyReference.cache
+/home/kamila/projects/nc42/src/Presentation/Nop.Web.Framework/obj/Debug/netcoreapp2.2/Nop.Web.Framework.csproj.CoreCompileInputs.cache
+/home/kamila/projects/nc42/src/Presentation/Nop.Web.Framework/obj/Debug/netcoreapp2.2/Nop.Web.Framework.AssemblyInfoInputs.cache
+/home/kamila/projects/nc42/src/Presentation/Nop.Web.Framework/obj/Debug/netcoreapp2.2/Nop.Web.Framework.AssemblyInfo.cs
+/home/kamila/projects/nc42/src/Presentation/Nop.Web.Framework/obj/Debug/netcoreapp2.2/Nop.Web.Framework.csproj.CopyComplete
+/home/kamila/projects/nc42/src/Presentation/Nop.Web.Framework/obj/Debug/netcoreapp2.2/Nop.Web.Framework.dll
+/home/kamila/projects/nc42/src/Presentation/Nop.Web.Framework/obj/Debug/netcoreapp2.2/Nop.Web.Framework.pdb
